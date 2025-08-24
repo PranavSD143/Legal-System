@@ -6,10 +6,12 @@ import numpy as np
 from embedding import load_tag_index
 import math
 
+embed = OllamaEmbeddings(model="nomic-embed-text:latest")
+model = OllamaLLM(model="openchat:latest")
+
 if __name__ == "__main__":
     print("🔄 Loading tag index and initializing models... please wait.")
-    embed = OllamaEmbeddings(model="nomic-embed-text:latest")
-    model = OllamaLLM(model="openchat:latest")
+
 
 def extract_query_components(query):
   
@@ -98,7 +100,7 @@ def filter_articles(user_query, tag_index, base_threshold=0.6):
 
 
 
-query = "i want to know murder related information"
+query = "right to freedom"
 
 tag_index = load_tag_index()
 match = filter_articles(query, tag_index)
@@ -138,7 +140,6 @@ You are a legal assistant AI. Given a user query and a batch of matched articles
 
 1. **Filter out irrelevant articles** based on the query.
 2. Return relevant articles with reasoning.
-3. Provide a brief batch summary (1-2 sentences).
 
 User Query:
 "{query}"
@@ -155,8 +156,7 @@ Output format:
       "reason": "Aligns with user's question on local governance and rights."
     }},
     ...
-  ],
-  "batch_summary": "This batch includes articles on Gram Sabha powers and village administration."
+  ]
 }}
 """
         try:
