@@ -1,4 +1,3 @@
-json
 pickle
 langchain_ollama
 scikit-learn
