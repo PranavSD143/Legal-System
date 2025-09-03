@@ -40,7 +40,6 @@ Summary:
             print(f"Batch {i+1} summarization failed:", e)
             continue
 
-    # Final summarization of all batch summaries
     combined_summaries = "\n".join(summarized_batch_texts)
 
     final_prompt = f"""

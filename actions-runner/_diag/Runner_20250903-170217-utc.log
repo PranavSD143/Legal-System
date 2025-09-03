@@ -1,0 +1,134 @@
+[2025-09-03 17:02:17Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO HostContext] Well known config file 'Credentials': 'D:\Legal-System\actions-runner\.credentials'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO HostContext] Well known config file 'Runner': 'D:\Legal-System\actions-runner\.runner'
+[2025-09-03 17:02:17Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-09-03 17:02:17Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26100.
+[2025-09-03 17:02:17Z INFO Listener] Version: 2.328.0
+[2025-09-03 17:02:17Z INFO Listener] Commit: 6f9a9110adce65f44ca6f7c0ae142b9cc6af937b
+[2025-09-03 17:02:17Z INFO Listener] Culture: en-US
+[2025-09-03 17:02:17Z INFO Listener] UI Culture: en-US
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO Listener] Validating directory permissions for: 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO CommandLineParser] Parse
+[2025-09-03 17:02:17Z INFO CommandLineParser] Parsing 1 args
+[2025-09-03 17:02:17Z INFO CommandLineParser] parsing argument
+[2025-09-03 17:02:17Z INFO CommandLineParser] HasArgs: False
+[2025-09-03 17:02:17Z INFO CommandLineParser] Adding Command: run
+[2025-09-03 17:02:17Z INFO Listener] Arguments parsed
+[2025-09-03 17:02:17Z INFO Runner] ExecuteCommand
+[2025-09-03 17:02:17Z INFO ConfigurationStore] currentAssemblyLocation: D:\Legal-System\actions-runner\bin\Runner.Listener.dll
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO ConfigurationStore] binPath: D:\Legal-System\actions-runner\bin
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO ConfigurationStore] RootFolder: D:\Legal-System\actions-runner
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO HostContext] Well known config file 'Runner': 'D:\Legal-System\actions-runner\.runner'
+[2025-09-03 17:02:17Z INFO ConfigurationStore] ConfigFilePath: D:\Legal-System\actions-runner\.runner
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO HostContext] Well known config file 'MigratedRunner': 'D:\Legal-System\actions-runner\.runner_migrated'
+[2025-09-03 17:02:17Z INFO ConfigurationStore] MigratedConfigFilePath: D:\Legal-System\actions-runner\.runner_migrated
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO HostContext] Well known config file 'Credentials': 'D:\Legal-System\actions-runner\.credentials'
+[2025-09-03 17:02:17Z INFO ConfigurationStore] CredFilePath: D:\Legal-System\actions-runner\.credentials
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\Legal-System\actions-runner\.credentials_migrated'
+[2025-09-03 17:02:17Z INFO ConfigurationStore] MigratedCredFilePath: D:\Legal-System\actions-runner\.credentials_migrated
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO HostContext] Well known config file 'Service': 'D:\Legal-System\actions-runner\.service'
+[2025-09-03 17:02:17Z INFO ConfigurationStore] ServiceConfigFilePath: D:\Legal-System\actions-runner\.service
+[2025-09-03 17:02:17Z INFO CommandSettings] Flag 'help': 'False'
+[2025-09-03 17:02:17Z INFO CommandSettings] Flag 'version': 'False'
+[2025-09-03 17:02:17Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-09-03 17:02:17Z INFO CommandSettings] Flag 'check': 'False'
+[2025-09-03 17:02:17Z INFO CommandSettings] Command 'configure': 'False'
+[2025-09-03 17:02:17Z INFO CommandSettings] Command 'remove': 'False'
+[2025-09-03 17:02:17Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-09-03 17:02:17Z INFO ConfigurationManager] LoadSettings
+[2025-09-03 17:02:17Z INFO ConfigurationStore] IsConfigured()
+[2025-09-03 17:02:17Z INFO ConfigurationStore] IsConfigured: True
+[2025-09-03 17:02:17Z INFO ConfigurationManager] Is configured: True
+[2025-09-03 17:02:17Z INFO ConfigurationStore] Read setting file: 394 chars
+[2025-09-03 17:02:17Z INFO ConfigurationManager] Settings Loaded
+[2025-09-03 17:02:17Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-09-03 17:02:17Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-09-03 17:02:17Z INFO CommandSettings] Command 'run': 'True'
+[2025-09-03 17:02:17Z INFO ConfigurationStore] IsConfigured()
+[2025-09-03 17:02:17Z INFO ConfigurationStore] IsConfigured: True
+[2025-09-03 17:02:17Z INFO ConfigurationManager] Is configured: True
+[2025-09-03 17:02:17Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-09-03 17:02:17Z INFO Runner] Set runner startup type - Manual
+[2025-09-03 17:02:17Z INFO CommandSettings] Flag 'once': 'False'
+[2025-09-03 17:02:17Z INFO CommandSettings] Flag 'once': 'False'
+[2025-09-03 17:02:17Z INFO Runner] RunAsync
+[2025-09-03 17:02:17Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-09-03 17:02:17Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-09-03 17:02:17Z INFO ConfigurationStore] IsMigratedConfigured: True
+[2025-09-03 17:02:17Z INFO ConfigurationStore] Read migrated setting file: 394 chars
+[2025-09-03 17:02:17Z INFO ConfigurationManager] Migrated Settings Loaded
+[2025-09-03 17:02:17Z INFO Runner] Loaded migrated settings from .runner_migrated file
+[2025-09-03 17:02:17Z INFO Runner] {
+  "AgentId": 2,
+  "AgentName": "PRANAV",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/4RDCz6jP3tr0ADgFf4JcnLFYGwxw0T2NgEDGZrocYOpGMcgA6D/",
+  "GitHubUrl": "https://github.com/PranavSD143/Legal-System",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-09-03 17:02:17Z INFO Runner] Attempting to create session using migrated settings
+[2025-09-03 17:02:17Z INFO Runner] Using BrokerMessageListener
+[2025-09-03 17:02:17Z INFO BrokerMessageListener] Using provided settings
+[2025-09-03 17:02:17Z INFO BrokerMessageListener] Using migrated settings from .runner_migrated
+[2025-09-03 17:02:17Z INFO BrokerMessageListener] {
+  "AgentId": 2,
+  "AgentName": "PRANAV",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/4RDCz6jP3tr0ADgFf4JcnLFYGwxw0T2NgEDGZrocYOpGMcgA6D/",
+  "GitHubUrl": "https://github.com/PranavSD143/Legal-System",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-09-03 17:02:17Z INFO BrokerMessageListener] Loading Credentials
+[2025-09-03 17:02:17Z INFO ConfigurationStore] HasCredentials()
+[2025-09-03 17:02:17Z INFO ConfigurationStore] stored True
+[2025-09-03 17:02:17Z INFO CredentialManager] GetCredentialProvider
+[2025-09-03 17:02:17Z INFO CredentialManager] Creating type OAuth
+[2025-09-03 17:02:17Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Bin': 'D:\Legal-System\actions-runner\bin'
+[2025-09-03 17:02:17Z INFO HostContext] Well known directory 'Root': 'D:\Legal-System\actions-runner'
+[2025-09-03 17:02:17Z INFO HostContext] Well known config file 'RSACredentials': 'D:\Legal-System\actions-runner\.credentials_rsaparams'
+[2025-09-03 17:02:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Legal-System\actions-runner\.credentials_rsaparams
+[2025-09-03 17:02:17Z INFO BrokerMessageListener] Attempt to create session.
+[2025-09-03 17:02:17Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-09-03 17:02:17Z INFO ConfigurationStore] HasCredentials()
+[2025-09-03 17:02:17Z INFO ConfigurationStore] stored True
+[2025-09-03 17:02:17Z INFO CredentialManager] GetCredentialProvider
+[2025-09-03 17:02:17Z INFO CredentialManager] Creating type OAuth
+[2025-09-03 17:02:17Z INFO CredentialManager] Creating credential type: OAuth
+[2025-09-03 17:02:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Legal-System\actions-runner\.credentials_rsaparams
+[2025-09-03 17:02:17Z INFO BrokerMessageListener] VssConnection created
+[2025-09-03 17:02:17Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-09-03 17:02:17Z INFO RunnerServer] EstablishVssConnection
+[2025-09-03 17:02:17Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-09-03 17:02:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-09-03 17:02:17Z INFO RunnerServer] EstablishVssConnection
+[2025-09-03 17:02:17Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-09-03 17:02:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-09-03 17:02:17Z INFO RunnerServer] EstablishVssConnection
+[2025-09-03 17:02:17Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-09-03 17:02:17Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
