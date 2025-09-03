@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "PranavSD143/Legal-System",
+  "pipelineDirectory": "Legal-System",
+  "workspaceDirectory": "Legal-System\\Legal-System",
+  "repositories": {
+    "PranavSD143/Legal-System": {
+      "repositoryPath": "Legal-System\\Legal-System",
+      "lastRunOn": "09/03/2025 22:18:46 +05:30"
+    }
+  },
+  "lastRunOn": "09/03/2025 22:18:46 +05:30"
+}
